@@ -1,0 +1,1 @@
+This folder contains the built output assets for the worker "apolo-mcp-one" generated at 2025-08-17T15:04:34.624Z.
